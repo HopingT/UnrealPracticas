@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Materials/M_BaseColor.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Materials/M_Emissive.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Materials/Rojo.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Materials/Verde.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Materials/lETRERO.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/AP/SE5RFZAKIN2CWJM9BJOHL9.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/3G/SZBUWLV25FW4B71VK0USNN.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HH/WSDO6UGLJUWZSSK7MHXCQH.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/0L/59IQZQXZGAKYWZIIKFOE06.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/BL/NTVW11FX3W1SI9IHXVG76Z.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/LM/3VW9C112EFKIZDU7NC63ZO.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/YP/M14PY272C6J161SV9K0D1C.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/TY/QE4S6UY9YV4GB6J2LT194N.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AU/DB7IG8NVSET7GHSA9XTULO.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Models/Capsule.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Models/Capsule_1.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Models/Capsule_1_1.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Models/Capsule_2.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Models/Capsule_3.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Models/Mat.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Models/PBR.uasset"
+			]
+		}
+	]
+}
