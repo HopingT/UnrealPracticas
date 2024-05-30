@@ -27,7 +27,24 @@
 				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Models/Capsule_2.uasset",
 				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Models/Capsule_3.uasset",
 				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Models/Mat.uasset",
-				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Models/PBR.uasset"
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Models/PBR.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Escenas/Escenario_Materiales.umap",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Megascans/Surfaces/Forest_Ground_xeulefn/M_terrain.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Megascans/Surfaces/Forest_Ground_xeulefn/M_terrain_Inst.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Escenas/Escenario_Materiales_sharedassets/Layer1_Tiera_LayerInfo.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Megascans/3D_Plants/Lily_Of_The_Valley_xikkdhjja/MI_Lily_Of_The_Valley_xikkdhjja_Billboard_2K.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Materials/Agua.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Materials/Agua_Inst.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Materials/Hielo.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Materials/Hielo_Inst.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Materials/ICE_Normal.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Megascans/3D_Plants/Lily_Of_The_Valley_xikkdhjja/MI_Lily_Of_The_Valley_xikkdhjja_2K.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Megascans/Surfaces/Mossy_Grass_vcjmaixs/MI_Mossy_Grass_vcjmaixs_2K.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Megascans/Surfaces/Mossy_Ground_xiboab2r/MI_Mossy_Ground_xiboab2r_2K.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Materials/T_PerlinNoise.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Materials/Water_Normal.uasset",
+				"D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Content/Megascans/Surfaces/Forest_Ground_xeulefn/M_TerrainInstance.uasset"
 			]
 		}
 	]

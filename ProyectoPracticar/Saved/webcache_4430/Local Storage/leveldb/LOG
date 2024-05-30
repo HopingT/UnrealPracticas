@@ -1,2 +1,3 @@
-2024/05/29-13:27:34.347 6378 Creating DB D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/05/29-13:27:34.363 6378 Reusing MANIFEST D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/05/30-14:19:30.831 5908 Reusing MANIFEST D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/05/30-14:19:30.842 5908 Recovering log #4
+2024/05/30-14:19:30.844 5908 Reusing old log D:/UnrealGit/UnrealPracticas/ProyectoPracticar/Saved/webcache_4430\Local Storage\leveldb/000004.log 
