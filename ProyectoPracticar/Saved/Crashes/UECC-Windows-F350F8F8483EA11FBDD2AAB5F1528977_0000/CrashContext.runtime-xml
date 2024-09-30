@@ -31,7 +31,7 @@ Resource is being deleted.
 		<DeploymentName>UE_5.4</DeploymentName>
 		<EngineVersion>5.4.1-33305029+++UE5+Release-5.4</EngineVersion>
 		<EngineCompatibleVersion>5.4.1-33305029+++UE5+Release-5.4</EngineCompatibleVersion>
-		<CommandLine>D:/UnrealGit/UnrealPracticas/ProyectoPracticar/ProyectoPracticar.uproject -AUTH_LOGIN=unused -AUTH_PASSWORD=3b966b591b734710b80253c502d31977 -AUTH_TYPE=exchangecode -epicapp=UE_5.4 -epicenv=Prod -EpicPortal -epicusername=HopingT -epicuserid=8a4c2dac7f014c49bcaa34def900e873 -epiclocale=es-MX -epicsandboxid=ue</CommandLine>
+		<CommandLine>CommandLineRemoved</CommandLine>
 		<LanguageLCID>0</LanguageLCID>
 		<AppDefaultLocale>es-MX</AppDefaultLocale>
 		<BuildVersion>++UE5+Release-5.4-CL-33305029</BuildVersion>
